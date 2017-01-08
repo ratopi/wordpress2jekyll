@@ -1,0 +1,15 @@
+{
+  "name": "wordpress2jekyll",
+  "version": "0.0.1",
+  "description": "Convert Wordpress' export XMLs to Jekyll's format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ralf Th. Pietsch <ratopi@abwesend.de>",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.4.17",
+    "yamljs": "^0.2.8"
+  }
+}
